@@ -1,5 +1,5 @@
 # Interactive-Online-Calendar
-Online Interactive Calendar for any date after December 2021 with added functionality
+Online Interactive Calendar for any date after December 2021 with added functionality made using JavaScript,HTML and CSS
 
 Try it out here:
 
